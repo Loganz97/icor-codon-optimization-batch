@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/icor-flat-small.png">
+  <img src="/assets/icor-flat-small-batch.png">
 </p>
 
 <p align="center">
