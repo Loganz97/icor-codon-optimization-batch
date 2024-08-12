@@ -3,6 +3,8 @@
 ![ICOR Header](https://raw.githubusercontent.com/Lattice-Automation/icor-codon-optimization/main/docs/assets/images/header.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yI0fwaZad5Z-SrIIoh2Czma_9sTzHtKr#scrollTo=Adbc_f7ZORjt)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5529209.svg)](https://doi.org/10.5281/zenodo.5529209)
+[![LICENSE](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/Lattice-Automation/icor-codon-optimization/blob/master/LICENSE)
 
 This repository contains a Google Colab notebook implementation of ICOR (Improving Codon Optimization with Recurrent neural networks), originally developed by [Jain et al. (2023)](https://doi.org/10.1186/s12859-023-05246-8). Our implementation focuses on providing a user-friendly interface for batch processing of DNA sequences using ICOR.
 
