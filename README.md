@@ -1,6 +1,8 @@
 # ICOR: Improving Codon Optimization with Recurrent Neural Networks (Batch Implementation)
 
-![ICOR Header](https://raw.githubusercontent.com/Lattice-Automation/icor-codon-optimization/main/docs/assets/images/header.png)
+<p align="center">
+  <img src="/assets/icor-flat-small.png">
+</p>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yI0fwaZad5Z-SrIIoh2Czma_9sTzHtKr#scrollTo=Adbc_f7ZORjt)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5529209.svg)](https://doi.org/10.5281/zenodo.5529209)
