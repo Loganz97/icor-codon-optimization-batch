@@ -1,4 +1,4 @@
-# ICOR: Improving Codon Optimization with Recurrent Neural Networks (Batch Implementation)
+# ICOR-batch: Improving Codon Optimization with Recurrent Neural Networks for batches in Colab
 
 <p align="center">
   <img src="/assets/icor-flat-small.png">
